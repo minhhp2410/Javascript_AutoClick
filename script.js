@@ -1,3 +1,4 @@
+///Auto for Dream GirlFriend
 var selector = {
     goDate: {
         startDate: "#mainLayer > a:nth-child(4) > img",
